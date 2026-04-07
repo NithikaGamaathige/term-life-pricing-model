@@ -5,7 +5,7 @@ This project demonstrates an end-to-end actuarial pricing and reserving cycle fo
 
 ##  Actuarial Concepts Applied
 * **The Equivalence Principle:** Pricing baseline premiums such that the Expected Present Value (EPV) of Benefits equals the EPV of Premiums.
-* **Mortality Assumptions:** Utilized standard life tables (e.g., SOA VBT) to extract $q_x$ rates and calculate cumulative survival probabilities ($t_p_x$).
+* **Mortality Assumptions:** Utilized standard life tables (e.g., SOA VBT) to extract $q_x$ rates and calculate cumulative survival probabilities (($t_p_x$)).
 * **Prospective Reserving:** Calculated end-of-year terminal reserves by projecting future benefit outflows against future premium inflows.
 * **Market Risk Assessment:** Modeled the inverse relationship between interest rates and premium requirements to quantify macroeconomic risk.
 
