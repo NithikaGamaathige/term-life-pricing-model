@@ -25,7 +25,7 @@ This project demonstrates an end-to-end actuarial pricing and reserving cycle fo
 * `Term Insurance Pricing.xlsx`: The final interactive deliverable. 
 
 ##  How to Use
-1. Download the `Actuarial_Pricing_Dashboard.xlsx` file.
+1. Download the `Term Insurance Pricing.xlsx` file.
 2. Open the **Dashboard (Blue)** tab.
 3. Adjust the **Face Amount** and **Target Policy Year** in the yellow input cells.
 4. Watch the Key Outputs, the Sensitivity Analysis, and the Reserve Curve chart instantly update to reflect your new assumptions!
